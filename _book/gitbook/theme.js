@@ -3151,7 +3151,7 @@
                 index: 0,
                 icon: "fa fa-align-justify",
                 onClick: function (e) {
-                    e.preventDefault(), s.toggle()
+                    // e.preventDefault(), s.toggle()
                 }
             })
         }
